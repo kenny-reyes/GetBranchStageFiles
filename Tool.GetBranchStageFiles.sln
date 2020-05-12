@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tool.GetBranchStageFiles", "Tool.GetBranchStageFiles\Tool.GetBranchStageFiles.csproj", "{074B8ECA-320B-4654-9592-73D13A437D9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{074B8ECA-320B-4654-9592-73D13A437D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074B8ECA-320B-4654-9592-73D13A437D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074B8ECA-320B-4654-9592-73D13A437D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074B8ECA-320B-4654-9592-73D13A437D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48F60B1F-DF9A-4918-AB6C-1631EBBD175A}
+	EndGlobalSection
+EndGlobal
